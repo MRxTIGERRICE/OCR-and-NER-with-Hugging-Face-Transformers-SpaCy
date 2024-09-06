@@ -18,3 +18,5 @@ Install the required packages using:
 
 ```bash
 pip install -r requirements.txt
+```
+### I have added the my previous attempts\trails with BERT from hugging faces which i have uploaded in a different repo
